@@ -1,0 +1,11 @@
+date,description,amount,category,account
+2024-01-15,Grocery shopping,-50.0,Food,Checking Account
+2024-01-20,Salary deposit,2000.0,Income,Checking Account
+2024-01-25,Rent payment,-1000.0,Housing,Checking Account
+2024-02-01,Dinner with friends,-30.0,Food,Credit Card
+2024-02-05,Bonus payment,500.0,Income,Savings Account
+2024-02-10,Utilities bill,-75.0,Utilities,Checking Account
+2024-02-12,Valentine's Day Gift,-100.0,Gifts,Credit Card
+2024-03-01,Monthly Subscription,-15.99,Subscriptions,Checking Account
+2024-03-05,Car Insurance,-120.0,Transportation,Checking Account
+2024-03-10,Concert Tickets,-80.0,Entertainment,Credit Card
